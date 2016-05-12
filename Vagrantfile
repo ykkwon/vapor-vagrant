@@ -97,17 +97,11 @@ Vagrant.configure(2) do |config|
     # Reload path
     source ~/.bashrc
 
-
-    cd /vagrant/system
-    git clone https://github.com/qutheory/vapor /vagrant/system/vapor
-    cd /vagrant/system/vapor
-
     sudo wget cli.qutheory.io -O vapor
     sudo chmod +x vapor
     sudo mv vapor /usr/local/bin
 
     sudo git clone https://github.com/qutheory/vapor-example/ /vagrant/www
-
 
     sudo rm -R /usr/share/nginx/html
     sudo ln -s /vagrant/www/Public /usr/share/nginx/html
