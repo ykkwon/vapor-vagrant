@@ -48,7 +48,7 @@ You can edit it in your favourite editor, recommendations are:
 
 # Other links
 
-* Switft: https://swift.org/
+* Swift: https://swift.org/
 * Vapor: http://qutheory.io/
 
 
