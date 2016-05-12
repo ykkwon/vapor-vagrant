@@ -38,7 +38,7 @@ You can now access the source code for your project by looking in:
 <project-directory>/www 
 ```
 
-You can edit it in your favourite editor, reccomentations are:
+You can edit it in your favourite editor, recommendations are:
 * Xcode (Mac only)
 * Atom 
  * Download: https://atom.io/
