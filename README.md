@@ -46,4 +46,9 @@ You can edit it in your favourite editor, recommendations are:
 * Sublime Text
  * Download: http://www.sublimetext.com/ 
 
+# Other links
+
+* Switft: https://swift.org/
+* Vapor: http://qutheory.io/
+
 
