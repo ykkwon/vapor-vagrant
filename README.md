@@ -15,9 +15,7 @@ https://www.vagrantup.com/
 
 ### Video how-to guide 
 
-```sh
 https://www.youtube.com/watch?v=XA9CQTFFyFI
-```
 
 ### Cloning and building the box
 ```sh
