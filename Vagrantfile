@@ -104,6 +104,7 @@ Vagrant.configure(2) do |config|
     sudo git clone https://github.com/qutheory/vapor-example/ /vagrant/www
 
     sudo cp /vagrant/dev/default /etc/nginx/sites-available/default
+    sudo cp /vagrant/dev/nginx.conf /etc/nginx/nginx.conf
 
     sudo nginx -s reload
 
