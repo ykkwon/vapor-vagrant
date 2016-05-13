@@ -13,6 +13,10 @@ https://www.vagrantup.com/
 
 ## Getting started
 
+### Video how-to guide 
+
+https://www.youtube.com/watch?v=XA9CQTFFyFI
+
 ### Cloning and building the box
 ```sh
 git clone https://github.com/paulatwilson/vapor-vagrant <project-directory>
