@@ -77,7 +77,7 @@ Vagrant.configure(2) do |config|
     sudo apt-get install -y nginx
     sudo apt-get install -y git-all
     sudo apt-get install -y supervisor
-    sudo apt-get install -y clang libicu-dev binutils
+    sudo apt-get install -y clang libicu-dev binutils git
 
     # Download Swift
     wget https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a/swift-DEVELOPMENT-SNAPSHOT-2016-05-03-a-ubuntu14.04.tar.gz
